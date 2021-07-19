@@ -1,12 +1,8 @@
-- 👋 Hi, I’m @SvenQanon
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @SvenQanon and Iam from Germany Cologne
+- 👀 I’m interested in get to know New people 
+- 🌱 I’m currently learning about the new stuff, which coming in Our World 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me? Over Telegramm Account 015233541237 
 
-<!---
-SvenQanon/SvenQanon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 
